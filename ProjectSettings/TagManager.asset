@@ -6,6 +6,8 @@ TagManager:
   tags:
   - TutorialRequirement
   - Ground
+  - Arrow
+  - Background
   layers:
   - Default
   - TransparentFX

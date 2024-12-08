@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ArrowMovement : MonoBehaviour
 {
-    [SerializeField] int arrowSpeed = 5;
+    [SerializeField] int arrowSpeed = 10;
 
     public void ActivateMovement()
     {
